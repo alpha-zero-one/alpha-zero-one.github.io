@@ -7,7 +7,7 @@ Conducted weekly tutorial sessions to support students, explained technical conc
 Teaching Assistant – University of Siegen (2015-2022)
 
 | Period | Subject |
-|---|---|
+|:---|:---|
 | Winter 2020, 2021, 2022 | Operating Systems<br>↪ Java, Concurrent Programming |
 | Summer 2016, 2021, 2022 | Object-Oriented and Functional Programming<br>↪ Java and Python Programming Languages |
 | Winter 2018 | Mathematics Preparatory Course<br>↪ Introduction to Analysis and Linear Algebra |
@@ -17,7 +17,7 @@ Teaching Assistant – University of Siegen (2015-2022)
 ## Academic Projects
 
 | Date | Title | Source |
-|---|---|---|
+|:---|:---|:---|
 | 08.04.2026 | Evaluation by Simulation:<br>Fine-Tuning LLMs to Implement Code-Feedback  | [↘ pdf](/academic_projects/evaluation_by_simulation.pdf)   |
 | 28.05.2024 | Rethinking Recommender Systems:<br>Cluster-based Algorithm Selection | [↗ pdf](https://arxiv.org/pdf/2405.18011) [↗ link](https://arxiv.org/abs/2405.18011) |
 | 29.02.2024 | Data Imbalance in Machine Learning:<br>Approaches for Dealing with Highly Imbalanced Datasets | [↘ pdf](/academic_projects/data_imbalance_in_machine_learning.pdf) |
