@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="./styles.css">
 
 ## Teaching Experience
 
