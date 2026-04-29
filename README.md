@@ -5,6 +5,7 @@
 Conducted weekly tutorial sessions to support students, explained technical concepts, answered course-related questions, and graded assignments.
 
 Teaching Assistant – University of Siegen (2015-2022)
+
 | Period | Subject |
 |---|---|
 | Winter 2020, 2021, 2022 | Operating Systems<br>↪ Java, Concurrent Programming |
