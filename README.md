@@ -5,8 +5,9 @@
 - Job: Software Engineer
 - Location: Germany - Siegen
 - Contact:
-  - E-Mail: 
+  - [GitHub](https://github.com/alpha-zero-one)
   - [LinkedIn](https://de.linkedin.com/in/andreas-lizenberger-a13253404)
+  - E-Email: ![Something went wrong!](./images/email.png)
 
 ## Education
 
