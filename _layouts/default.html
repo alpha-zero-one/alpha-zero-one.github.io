@@ -14,8 +14,14 @@
     <div>Andreas Lizenberger</div>
     <div><a href="https://github.com/alpha-zero-one">↘ GitHub</a></div>
     <div><a href="https://de.linkedin.com/in/andreas-lizenberger-a13253404">↗ LinkedIn</a></div>
-    <div><a href="mailto:andreas.lizenberger.code@gmail.com?subject=From GitHub Pages ">↗ E-Mail</a></div>
   </div>
+  
+  <script>
+    let address = "andreas" + "." + "lizenberger" + "." + "code" + "@" + "gmail" + "." + "com";
+    let element = document.createElement("div")
+    header.appendChild(element);
+    element.innerHTML = `<a href="mailto:${address}?subject=From GitHub Pages ">↗ E-Mail</a>`
+  </script>
   
   <div id="content_wrapper">
     <div id="center_wrapper">
