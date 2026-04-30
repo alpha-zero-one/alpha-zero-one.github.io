@@ -14,8 +14,10 @@ body {
     overflow: auto;
     
     font-size: larger;
-    background-color: var(--primary-color);
+    white-space: nowrap;
     color: white;
+    
+    background-color: var(--primary-color);
 }
 
 #header div {
