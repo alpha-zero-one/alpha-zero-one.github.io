@@ -1,4 +1,13 @@
 
+## Personal Details
+
+- Name: Andreas Lizenberger
+- Job: Software Engineer
+- Location: Germany - Siegen
+- Contact:
+  - E-Mail: 
+  - [LinkedIn](https://de.linkedin.com/in/andreas-lizenberger-a13253404)
+
 ## Education
 
 - 07.04.2026 Master of Science in Computer Science - University of Siegen
