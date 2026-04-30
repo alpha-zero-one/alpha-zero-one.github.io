@@ -17,7 +17,7 @@ Contact: [GitHub](https://github.com/alpha-zero-one) [LinkedIn](https://de.linke
 
 24.08.2021 Bachelor of Science in Computer Science - University of Siegen
 
-20.06.2013 Abitur - Gymnasium Neunkirchen
+20.06.2013 German A-levels (Abitur) - Dietrich Bonhoeffer Gymnasium Neunkirchen
 
 ## Teaching Experience
 
