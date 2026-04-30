@@ -1,4 +1,10 @@
 
+## Education
+
+- 07.04.2026 Master of Science in Computer Science - University of Siegen
+- 24.08.2021 Bachelor of Science in Computer Science - University of Siegen
+- 20.06.2013 Abitur - Gymnasium Neunkirchen
+
 ## Teaching Experience
 
 Conducted weekly tutorial sessions to support students, explained technical concepts, answered course-related questions, and graded assignments.
