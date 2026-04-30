@@ -1,19 +1,23 @@
 
 ## Personal Details
 
-- Name: Andreas Lizenberger
-- Job: Software Engineer
-- Location: Germany - Siegen
-- Contact:
-  - [GitHub](https://github.com/alpha-zero-one)
-  - [LinkedIn](https://de.linkedin.com/in/andreas-lizenberger-a13253404)
-  - E-Mail: <img src="./images/email.png" alt="Something went wrong!" style="vertical-align: bottom;">
+Name: Andreas Lizenberger
+
+Job: Software Engineer
+
+Location: Germany - Siegen
+
+Contact: [GitHub](https://github.com/alpha-zero-one) [LinkedIn](https://de.linkedin.com/in/andreas-lizenberger-a13253404)
+
+<img src="./images/email.png" alt="Something went wrong!" style="vertical-align: bottom;">
 
 ## Education
 
-- 07.04.2026 Master of Science in Computer Science - University of Siegen
-- 24.08.2021 Bachelor of Science in Computer Science - University of Siegen
-- 20.06.2013 Abitur - Gymnasium Neunkirchen
+07.04.2026 Master of Science in Computer Science - University of Siegen
+
+24.08.2021 Bachelor of Science in Computer Science - University of Siegen
+
+20.06.2013 Abitur - Gymnasium Neunkirchen
 
 ## Teaching Experience
 
