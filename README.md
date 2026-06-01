@@ -13,17 +13,17 @@ Contact: [GitHub](https://github.com/alpha-zero-one) [LinkedIn](https://de.linke
 
 ## Education
 
-07.04.2026 Master of Science in Computer Science - University of Siegen<br>➙ Grade: Overall 1.3, Thesis -Open-
+Master of Science in Computer Science<br>07.04.2026 - University of Siegen<br>➙ Grade: Overall 1.3, Thesis -Open-
 
-24.08.2021 Bachelor of Science in Computer Science with Minor in Mathematics - University of Siegen<br>➙ Grade: Overall 2.0, Thesis 1.3
+Bachelor of Science in Computer Science with Minor in Mathematics<br>24.08.2021 - University of Siegen<br>➙ Grade: Overall 2.0, Thesis 1.3
 
-20.06.2013 German A-levels (Abitur) - Dietrich-Bonhoeffer-Gymnasium Neunkirchen (Siegerland)<br>➙ Grade: Overall 1.9
+Abitur (German A-levels)<br>20.06.2013 - Dietrich-Bonhoeffer-Gymnasium Neunkirchen (Siegerland)<br>➙ Grade: Overall 1.9
 
 ## Teaching Experience
 
 Conducted weekly tutorial sessions to support students, explained technical concepts, answered course-related questions, and graded assignments.
 
-Teaching Assistant – University of Siegen (2015-2022)
+Teaching Assistant<br>2015-2022 - University of Siegen
 
 | Period | Subject |
 |:---|:---|
