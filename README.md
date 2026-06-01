@@ -13,11 +13,11 @@ Contact: [GitHub](https://github.com/alpha-zero-one) [LinkedIn](https://de.linke
 
 ## Education
 
-07.04.2026 Master of Science in Computer Science - University of Siegen
+07.04.2026 Master of Science in Computer Science - University of Siegen<br>➙ Overall 1.3, Thesis -Open-
 
-24.08.2021 Bachelor of Science in Computer Science - University of Siegen
+24.08.2021 Bachelor of Science in Computer Science - University of Siegen<br>➙ Overall 2.0, Thesis 1.3
 
-20.06.2013 German A-levels (Abitur) - Dietrich Bonhoeffer Gymnasium Neunkirchen
+20.06.2013 German A-levels (Abitur) - Dietrich-Bonhoeffer-Gymnasium Neunkirchen (Siegerland)<br>➙ Grade: Overall 1.9
 
 ## Teaching Experience
 
@@ -27,10 +27,10 @@ Teaching Assistant – University of Siegen (2015-2022)
 
 | Period | Subject |
 |:---|:---|
-| Winter 2020, 2021, 2022 | Operating Systems<br>↪ Java, Concurrent Programming |
-| Summer 2016, 2021, 2022 | Object-Oriented and Functional Programming<br>↪ Java and Python Programming Languages |
-| Winter 2018 | Mathematics Preparatory Course<br>↪ Introduction to Analysis and Linear Algebra |
-| Winter 2015 | Database Systems<br>↪ SQL, Relational Database |
+| Winter 2020, 2021, 2022 | Operating Systems<br>➙ Java, Concurrent Programming |
+| Summer 2016, 2021, 2022 | Object-Oriented and Functional Programming<br>➙ Java and Python Programming Languages |
+| Winter 2018 | Mathematics Preparatory Course<br>➙ Introduction to Analysis and Linear Algebra |
+| Winter 2015 | Database Systems<br>➙ SQL, Relational Database |
 
 
 ## Academic Projects
