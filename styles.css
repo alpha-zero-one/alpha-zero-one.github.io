@@ -79,3 +79,7 @@ tr:last-child {
     
     overflow: auto;
 }
+
+.bold_text {
+    font-weight: bold;
+}
