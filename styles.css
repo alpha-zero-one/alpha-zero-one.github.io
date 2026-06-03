@@ -47,6 +47,14 @@ h2 {
     border-color: var(--primary-color);
 }
 
+p:has(+ ul) {
+    margin-bottom: 0px;
+}
+
+p + ul {
+    margin-top: 0px;
+}
+
 table {
     border-collapse: collapse;
 }
