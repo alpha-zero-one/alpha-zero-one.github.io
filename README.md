@@ -11,6 +11,25 @@ Contact: [GitHub](https://github.com/alpha-zero-one) [LinkedIn](https://de.linke
 
 <img src="./images/email.png" alt="Something went wrong!" style="vertical-align: bottom;">
 
+## About
+
+Computer Scientist and Software Engineer, combining a background in Artificial Intelligence and Data Science with a foundation in Software System Development.
+
+Areas of Interest:
+- Artificial Intelligence, Neural Networks, Large Language Models
+- Recommender Systems
+- Development of Software and Applications
+
+Academic Background in Computer Science:
+- Mathematics and Data Science
+- Visual Computing
+- Theoretical Computer Science
+
+Technical Foundation in:
+- Web Technologies (HTML, CSS, JavaScript)
+- Python, Java, SQL
+- Data Structures, Algorithms, Concurrent Programming
+
 ## Education
 
 **Master of Science in Computer Science**<br>07.04.2026 - University of Siegen<br>➙ Grade: Overall 1.3, Thesis -Open-
