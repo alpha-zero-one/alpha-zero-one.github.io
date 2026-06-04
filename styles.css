@@ -47,6 +47,10 @@ h2 {
     border-color: var(--primary-color);
 }
 
+h2:first-of-type {
+  margin-top: 0;
+}
+
 p:has(+ ul) {
     margin-bottom: 0px;
 }
@@ -111,4 +115,18 @@ tr:last-child {
 
 .bold_text {
     font-weight: bold;
+}
+
+@media (min-width: 840px) {
+    #content_wrapper {
+        background-color: #eee;
+    }
+    
+    #page_wrapper {
+        box-sizing: border-box;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 32px;
+        background-color: white
+    }
 }
