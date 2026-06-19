@@ -27,7 +27,7 @@ Technical Foundation in:
 
 ## Education
 
-**Master of Science in Computer Science**<br>07.04.2026 - University of Siegen<br>➙ Grade: Overall 1.3, Thesis -Open-
+**Master of Science in Computer Science**<br>07.04.2026 - University of Siegen<br>➙ Grade: Overall 1.3, Thesis 1.3
 
 **Bachelor of Science in Computer Science with Minor in Mathematics**<br>24.08.2021 - University of Siegen<br>➙ Grade: Overall 2.0, Thesis 1.3
 
