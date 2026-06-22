@@ -1,7 +1,7 @@
 
 ## Personal Details
 
-<div class="card"><span class="x_large_font">Andreas Lizenberger</span><br><span class="large_font">M.Sc. | Software Engineer</span><br><span class="smaller_font">Germany - NRW - Siegen</span><br><br><span><a href="https://github.com/alpha-zero-one">GitHub</a> <a href="https://de.linkedin.com/in/andreas-lizenberger-a13253404">LinkedIn</a></span>
+<div class="card"><span class="x_large_font">Andreas Lizenberger</span><br><span class="large_font">M.Sc. | Software Engineer</span><br><span class="smaller_font">Germany - NRW - Siegen</span><br><br><span><a href="https://github.com/alpha-zero-one">GitHub</a> <a href="https://linkedin.com/in/andreas-lizenberger">LinkedIn</a></span>
 </div>
 
 <img src="./images/email.png" alt="Something went wrong!" style="vertical-align: bottom;">
@@ -51,9 +51,9 @@ Conducted weekly tutorial sessions to support students, explained technical conc
 
 | Date | Title | Source |
 |:---|:---|:---|
-| 08.04.2026 | Evaluation by Simulation:<br>Fine-Tuning LLMs to Implement Code-Feedback  | [↘ pdf](/academic_projects/evaluation_by_simulation.pdf)   |
+| 07.04.2026 | Evaluation by Simulation:<br>Fine-Tuning LLMs to Implement Code-Feedback  | [↘ pdf](/academic_projects/evaluation_by_simulation.pdf)   |
 | 28.05.2024 | Rethinking Recommender Systems:<br>Cluster-based Algorithm Selection | [↗ pdf](https://arxiv.org/pdf/2405.18011) [↗ link](https://arxiv.org/abs/2405.18011) |
 | 29.02.2024 | Data Imbalance in Machine Learning:<br>Approaches for Dealing with Highly Imbalanced Datasets | [↘ pdf](/academic_projects/data_imbalance_in_machine_learning.pdf) |
 | 07.01.2024 | Sensitivity Conjecture | [↘ pdf](/academic_projects/sensitivity_conjecture.pdf) |
 | 15.09.2023 | Scribble-based Image Segmentation with Convexity Constraints | [↘ pdf](/academic_projects/scribble_image_segmentation.pdf) |
-| 26.11.2021 | Navigational Queries for Forest Straight-Line Programs | [↘ pdf](/academic_projects/navigational_queries_for_fslp.pdf) |
+| 24.08.2021 | Navigational Queries for Forest Straight-Line Programs | [↘ pdf](/academic_projects/navigational_queries_for_fslp.pdf) |
