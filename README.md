@@ -1,7 +1,7 @@
 
 ## Personal Details
 
-<div class="card"><span class="x_large_font">Andreas Lizenberger</span><br><span class="large_font">M.Sc. • Software Engineer</span><br><span class="smaller_font">Germany • NRW • Siegen</span><br><br><span><a href="https://github.com/alpha-zero-one">GitHub</a> <a href="https://linkedin.com/in/andreas-lizenberger">LinkedIn</a></span>
+<div class="card"><span class="x_large_font">Andreas Lizenberger</span><br><span class="large_font">M.Sc. ∙ Software Engineer</span><br><span class="smaller_font">Germany NRW Siegen</span><br><br><span><a href="https://github.com/alpha-zero-one">GitHub</a> <a href="https://linkedin.com/in/andreas-lizenberger">LinkedIn</a></span>
 </div>
 
 <img src="./images/email.png" alt="Something went wrong!" style="vertical-align: bottom;">
@@ -27,17 +27,17 @@ Technical Foundation in:
 
 ## Education
 
-**Master of Science in Computer Science**<br>07.04.2026 • University of Siegen<br>➙ Grade: Overall 1.3, Thesis 1.3
+**Master of Science in Computer Science**<br>Oct 2021 - Apr 2026 ∙ University of Siegen<br>Grade: Overall 1.3, Thesis 1.3
 
-**Bachelor of Science in Computer Science with Minor in Mathematics**<br>24.08.2021 • University of Siegen<br>➙ Grade: Overall 2.0, Thesis 1.3
+**Bachelor of Science in Computer Science with Minor in Mathematics**<br>Oct 2013 - Aug 2021 ∙ University of Siegen<br>Grade: Overall 2.0, Thesis 1.3
 
-**Abitur (German A-levels)**<br>20.06.2013 • DBG Neunkirchen<br>➙ Grade: Overall 1.9
+**Abitur (German A-levels)**<br>Aug 2006 - Jun 2013 ∙ DBG Neunkirchen<br>Grade: Overall 1.9
 
 ## Teaching Experience
 
 Conducted weekly tutorial sessions to support students, explained technical concepts, answered course-related questions, and graded assignments.
 
-**Teaching Assistant**<br>2015-2022 • University of Siegen
+**Teaching Assistant**<br>2015 - 2022 ∙ University of Siegen
 
 | Period | Subject |
 |:---|:---|
