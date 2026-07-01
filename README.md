@@ -29,7 +29,7 @@ Technical Foundation in:
 
 **Master of Science in Computer Science**<br>Oct 2021 - Apr 2026 ∙ University of Siegen<br>Grade: Overall 1.3, Thesis 1.3
 
-**Bachelor of Science in Computer Science with Minor in Mathematics**<br>Oct 2013 - Aug 2021 ∙ University of Siegen<br>Grade: Overall 2.0, Thesis 1.3
+**Bachelor of Science in Computer Science**<br>**with Minor in Mathematics**<br>Oct 2013 - Aug 2021 ∙ University of Siegen<br>Grade: Overall 2.0, Thesis 1.3
 
 **Abitur (German A-levels)**<br>Aug 2006 - Jun 2013 ∙ DBG Neunkirchen<br>Grade: Overall 1.9
 
