@@ -51,9 +51,9 @@ Conducted weekly tutorial sessions to support students, explained technical conc
 
 | Date | Title | Source |
 |:---|:---|:---|
-| 07.04.2026 | Evaluation by Simulation:<br>Fine-Tuning LLMs to Implement Code-Feedback  | [↘ pdf](/academic_projects/evaluation_by_simulation.pdf)   |
-| 28.05.2024 | Rethinking Recommender Systems:<br>Cluster-based Algorithm Selection | [↗ pdf](https://arxiv.org/pdf/2405.18011) [↗ link](https://arxiv.org/abs/2405.18011) |
-| 29.02.2024 | Data Imbalance in Machine Learning:<br>Approaches for Dealing with Highly Imbalanced Datasets | [↘ pdf](/academic_projects/data_imbalance_in_machine_learning.pdf) |
-| 07.01.2024 | Sensitivity Conjecture | [↘ pdf](/academic_projects/sensitivity_conjecture.pdf) |
-| 15.09.2023 | Scribble-based Image Segmentation with Convexity Constraints | [↘ pdf](/academic_projects/scribble_image_segmentation.pdf) |
-| 24.08.2021 | Navigational Queries for Forest Straight-Line Programs | [↘ pdf](/academic_projects/navigational_queries_for_fslp.pdf) |
+| Apr 07, 2026 | Evaluation by Simulation:<br>Fine-Tuning LLMs to Implement Code-Feedback  | [↘ pdf](/academic_projects/evaluation_by_simulation.pdf)   |
+| May 28, 2024 | Rethinking Recommender Systems:<br>Cluster-based Algorithm Selection | [↗ pdf](https://arxiv.org/pdf/2405.18011) [↗ link](https://arxiv.org/abs/2405.18011) |
+| Feb 29, 2024 | Data Imbalance in Machine Learning:<br>Approaches for Dealing with Highly Imbalanced Datasets | [↘ pdf](/academic_projects/data_imbalance_in_machine_learning.pdf) |
+| Jan 07, 2024 | Sensitivity Conjecture | [↘ pdf](/academic_projects/sensitivity_conjecture.pdf) |
+| Sep 15, 2023 | Scribble-based Image Segmentation with Convexity Constraints | [↘ pdf](/academic_projects/scribble_image_segmentation.pdf) |
+| Aug 24, 2021 | Navigational Queries for Forest Straight-Line Programs | [↘ pdf](/academic_projects/navigational_queries_for_fslp.pdf) |
