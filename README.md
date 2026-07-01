@@ -8,7 +8,7 @@
 
 ## About
 
-Computer Scientist and Software Engineer, combining a background in Artificial Intelligence and Data Science with a foundation in Software System Development.
+Computer scientist and software engineer, combining a background in artificial intelligence and machine learning with a technical foundation in software system development.
 
 Areas of Interest:
 - Artificial Intelligence, Neural Networks, Large Language Models
@@ -16,7 +16,7 @@ Areas of Interest:
 - Development of Software and Applications
 
 Academic Background in Computer Science:
-- Mathematics and Data Science
+- Mathematics and Machine Learning
 - Visual Computing
 - Theoretical Computer Science
 
