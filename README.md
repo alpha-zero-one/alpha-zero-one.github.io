@@ -50,7 +50,7 @@ Conducted weekly tutorial sessions to support students, explained technical conc
 ## Academic Projects
 
 | Date | Title | Source |
-|:---|:---|:---|
+|---:|:---|:---|
 | Apr 07, 2026 | Evaluation by Simulation:<br>Fine-Tuning LLMs to Implement Code-Feedback  | [↘ pdf](/academic_projects/evaluation_by_simulation.pdf)   |
 | May 28, 2024 | Rethinking Recommender Systems:<br>Cluster-based Algorithm Selection | [↗ pdf](https://arxiv.org/pdf/2405.18011) [↗ link](https://arxiv.org/abs/2405.18011) |
 | Feb 29, 2024 | Data Imbalance in Machine Learning:<br>Approaches for Dealing with Highly Imbalanced Datasets | [↘ pdf](/academic_projects/data_imbalance_in_machine_learning.pdf) |
