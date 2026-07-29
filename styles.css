@@ -59,12 +59,7 @@ table {
     border-collapse: collapse;
 }
 
-th,td {
-    padding: 8px;
-    vertical-align: top
-}
-
-th, tr {
+tr {
     border-bottom-style: solid;
     border-color: #8a8a8a;
     border-width: 2px;
@@ -72,6 +67,15 @@ th, tr {
 
 tr:last-child {
     border-bottom-style: none;
+}
+
+th,td {
+    padding: 8px;
+    vertical-align: top
+}
+
+td a {
+    white-space: nowrap;
 }
 
 #content_wrapper {
