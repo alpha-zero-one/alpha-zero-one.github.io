@@ -1,10 +1,8 @@
 
 ## Personal Details
 
-<div class="card"><span class="x_large_font">Andreas Lizenberger</span><br><span>M.Sc. ∙ Software Engineer</span><br><span class="smaller_font">Germany NRW Siegen</span><br><br><span><a href="https://github.com/alpha-zero-one">GitHub</a> <a href="https://linkedin.com/in/andreas-lizenberger">LinkedIn</a></span>
+<div class="card"><span class="x_large_font">Andreas Lizenberger</span><br><span>M.Sc. ∙ Software Engineer</span><br><span class="smaller_font">Germany NRW Siegen</span><br><br><span><a href="https://github.com/alpha-zero-one">GitHub</a> <a href="https://linkedin.com/in/andreas-lizenberger">LinkedIn</a><br><br><img src="./images/email.png" alt="Something went wrong!" style="vertical-align: bottom;width: 100%;"></span>
 </div>
-
-<img src="./images/email.png" alt="Something went wrong!" style="vertical-align: bottom;">
 
 ## About
 
