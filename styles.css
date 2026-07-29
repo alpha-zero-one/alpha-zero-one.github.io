@@ -59,7 +59,7 @@ table {
     border-collapse: collapse;
 }
 
-tr {
+thead, tr {
     border-bottom-style: solid;
     border-color: #8a8a8a;
     border-width: 2px;
@@ -69,7 +69,7 @@ tr:last-child {
     border-bottom-style: none;
 }
 
-th,td {
+th, td {
     padding: 8px;
     vertical-align: top
 }
