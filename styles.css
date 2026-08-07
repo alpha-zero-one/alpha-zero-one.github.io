@@ -47,6 +47,23 @@ h2 {
     border-color: var(--primary-color);
 }
 
+p {
+    margin-top: 0px;
+}
+
+p:has(+ blockquote) {
+    margin-bottom: 0px;
+}
+
+p + blockquote {
+    margin: 0px;
+    padding-left: 12px;
+    border-left-style: solid;
+    border-left-width: 4px;
+    border-left-color: var(--primary-color);
+}
+
+
 p:has(+ ul) {
     margin-bottom: 0px;
 }
