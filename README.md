@@ -25,7 +25,7 @@ Technical Foundation in:
 
 ## Experience
 
-**Data Analyst at Buhl Data Service GmbH**<br>Aug 2026 - Now ∙ Neunkirchen
+**Data Analyst**<br>Aug 2026 - Now ∙ Buhl Data Service GmbH
 
 ## Education
 
