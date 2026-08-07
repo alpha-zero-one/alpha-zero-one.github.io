@@ -29,7 +29,7 @@ Technical Foundation in:
 
 ## Education
 
-**Master of Science in Computer Science**<br>Oct 2021 - Apr 2026 ∙ University of Siegen
+**Master of Science in Computer Science**<br>**with in-depth focus on Visual Computing**<br>Oct 2021 - Apr 2026 ∙ University of Siegen
 > Grade: Overall 1.3, Thesis 1.3
 
 **Bachelor of Science in Computer Science**<br>**with Minor in Mathematics**<br>Oct 2013 - Aug 2021 ∙ University of Siegen
