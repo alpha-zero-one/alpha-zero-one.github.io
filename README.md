@@ -37,9 +37,8 @@ Technical Foundation in:
 
 ## Teaching Experience
 
-Conducted weekly tutorial sessions to support students, explained technical concepts, answered course-related questions, and graded assignments.
-
 **Teaching Assistant**<br>2015 - 2022 ∙ University of Siegen
+> Conducted weekly tutorial sessions to support students, explained technical concepts, answered course-related questions, and graded assignments.
 
 | Period | Subject |
 |:---|:---|
