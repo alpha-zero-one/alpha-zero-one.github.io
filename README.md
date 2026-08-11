@@ -23,7 +23,7 @@ Technical Foundation in:
 - Python, Java, SQL
 - Data Structures, Algorithms, Concurrent Programming
 
-## Experience
+## Career
 
 **Data Analyst**<br>Aug 2026 - Now ∙ Buhl Data Service GmbH
 
