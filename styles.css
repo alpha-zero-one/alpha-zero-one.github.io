@@ -121,7 +121,7 @@ td a {
     text-align: center;
 }
 
-.carc hr {
+.card hr {
     border-width: 1px;
     border-style: solid;
     border-color: var(--primary-color);
