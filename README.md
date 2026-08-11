@@ -32,7 +32,7 @@ Technical Foundation in:
 **Master of Science in Computer Science**<br>**with in-depth focus on Visual Computing**<br>Oct 2021 - Apr 2026 ∙ University of Siegen
 > Grade: Overall 1.3, Thesis 1.3
 
-**Bachelor of Science in Computer Science**<br>**with Minor in Mathematics**<br>Oct 2013 - Aug 2021 ∙ University of Siegen
+**Bachelor of Science in Computer Science**<br>**with minor in Mathematics**<br>Oct 2013 - Aug 2021 ∙ University of Siegen
 > Grade: Overall 2.0, Thesis 1.3
 
 **Abitur (German A-levels)**<br>Aug 2006 - Jun 2013 ∙ DBG Neunkirchen
