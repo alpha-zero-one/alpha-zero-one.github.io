@@ -121,6 +121,12 @@ td a {
     text-align: center;
 }
 
+.carc hr {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--primary-color);
+}
+
 .x_large_font {
     font-size: x-large;
 }
